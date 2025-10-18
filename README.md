@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-- 💻 Currently building: **Full-Stack Blog Platform**  
-- 🌱 Learning: **PHP**, **MySQL**, **Bootstrap**, **JavaScript**, **Laravel** and **Blockchain**
-- 🧩 Exploring: **Ethereum Smart Contracts** & **Vue 3** & **React**
+- 💻 Currently building: **Full-Stack Hospital Management System **  
+- 🌱 Stacks: **PHP**, **MySQL**, **Bootstrap && Tailwind Css**, **JavaScript**, **Laravel** and **Solidity**
+- 🧩 Exploring: **Ethereum Smart Contracts** & **Vue 3** & **React**,**Laravel**
 - 🧠 Mission: Becoming a world-class developer 💯
 - ✉️ Reach me at: [quadriyusuff721@gmail.com](mailto:quadriyusuff721@gmail.com)
 
