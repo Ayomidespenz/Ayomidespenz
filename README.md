@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/Ayomidespenz">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0e75b6&width=500&lines=Full-stack+Developer;Open+Source+Enthusiast;Learning+Ethereum+Smart+Contracts;Let%27s+Build+Awesome+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0e75b6&width=500&lines=Full-stack+Developer;Open+Source+Enthusiast;Learning+Ethereum+Smart+Contracts;Let%27s+Build+Awesome+Things!" style=""border-radius:50% />
 </a>
 
 ---
@@ -11,8 +11,8 @@
 ## 🚀 About Me
 
 - 💻 Currently building: **Full-Stack Hospital Management System **  
-- 🌱 Stacks: **PHP**, **MySQL**, **Bootstrap && Tailwind Css**, **JavaScript**, **Laravel** and **Solidity**
-- 🧩 Exploring: **Ethereum Smart Contracts** & **Vue 3** & **React**,**Laravel**
+- 🌱 Stacks: **PHP**, **MySQL**, **Bootstrap && Tailwind Css**, **JavaScript**,**Typescript** **Laravel** and **Solidity**
+- 🧩 Exploring: **Ethereum Smart Contracts** & **Vue 3** & **React**,**Laravel**, **MERN**
 - 🧠 Mission: Becoming a world-class developer 💯
 - ✉️ Reach me at: [quadriyusuff721@gmail.com](mailto:quadriyusuff721@gmail.com)
 
@@ -20,13 +20,14 @@
 
 ## 🛠️ My Tech Stack
 
-## 🛠️ My Tech Stack
+
 
 ### 💻 Front-End Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=typescript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -36,6 +37,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=sql&logoColor=white)
+![Postgre](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=postgre&logoColor=white)
 
 ---
 
@@ -51,7 +54,7 @@
 ---
 
 ## 📝 Current Projects
-
+- 🔥 **Hospital HMS** — Full-featured hospital app with user auth, doctors dashboard,nurses dashboard and admin dashboard  
 - 🔥 **Blog CMS** — Full-featured blog app with user auth, comments, and admin dashboard  
 - ⚙️ **Ethereum Explorer** — Learn smart contracts by building an Ethereum transaction visualizer  
 - 📦 **File Upload System** — PHP file upload tool with progress bar and database logging
