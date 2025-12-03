@@ -1,9 +1,9 @@
 # Hi there, I'm Quadri Yusuff 👋
-<img src="https://raw.githubusercontent.com/Ayomidespenz/quadriyusuff/refs/heads/main/IMG-20250603-WA0013.jpg" width="400" height="400" border-radius="10px" />
+<img src="https://raw.githubusercontent.com/Ayomidespenz/quadriyusuff/refs/heads/main/IMG-20250603-WA0013.jpg" width="400" height="400" border-radius="50%" />
 
 
 <a href="https://github.com/Ayomidespenz">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0e75b6&width=500&lines=Full-stack+Developer;Open+Source+Enthusiast;Learning+Ethereum+Smart+Contracts;Let%27s+Build+Awesome+Things!" style=""border-radius:50% />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0e75b6&width=500&lines=Full-stack+Developer;Open+Source+Enthusiast;Learning+Ethereum+Smart+Contracts;Let%27s+Build+Awesome+Things!"  />
 </a>
 
 ---
